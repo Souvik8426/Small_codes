@@ -1,3 +1,4 @@
+#run the bat file to run the code
 import time
 s = ""
 arr = [chr(i) for i in range(ord('a'), ord('z') + 1)]
