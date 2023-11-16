@@ -1,3 +1,4 @@
+#run the bat file to run the code (note .bat files are not supproted in linux and hence macbooks too)
 import time
 s = ""
 arr = [chr(i) for i in range(ord('a'), ord('z') + 1)]
